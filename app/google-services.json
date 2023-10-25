@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "649704089960",
+    "project_id": "firebae-crud-4d1e4",
+    "storage_bucket": "firebae-crud-4d1e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649704089960:android:2d995381b6e1a3ccd30edd",
+        "android_client_info": {
+          "package_name": "com.example.firebae_crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnrqhTmXds9029R_0f11tU524ZNCNP4OE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
